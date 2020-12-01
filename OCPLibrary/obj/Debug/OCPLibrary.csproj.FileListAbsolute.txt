@@ -1,0 +1,6 @@
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OCPLibrary\obj\Debug\OCPLibrary.csprojAssemblyReference.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OCPLibrary\obj\Debug\OCPLibrary.pdb

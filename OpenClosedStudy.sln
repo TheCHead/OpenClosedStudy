@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedStudy", "OpenClosedStudy\OpenClosedStudy.csproj", "{2133B398-F7EB-4A87-A0F7-1869F2B3DD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPLibrary", "OCPLibrary\OCPLibrary.csproj", "{D3D15D7E-8774-4EE3-93FC-87EA9B69DE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2133B398-F7EB-4A87-A0F7-1869F2B3DD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2133B398-F7EB-4A87-A0F7-1869F2B3DD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2133B398-F7EB-4A87-A0F7-1869F2B3DD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2133B398-F7EB-4A87-A0F7-1869F2B3DD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D15D7E-8774-4EE3-93FC-87EA9B69DE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D15D7E-8774-4EE3-93FC-87EA9B69DE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D15D7E-8774-4EE3-93FC-87EA9B69DE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D15D7E-8774-4EE3-93FC-87EA9B69DE58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB6E8E9-534F-49C6-B22F-8D63E1F8A49F}
+	EndGlobalSection
+EndGlobal

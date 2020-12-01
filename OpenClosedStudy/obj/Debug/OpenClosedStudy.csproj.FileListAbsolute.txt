@@ -1,0 +1,10 @@
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\bin\Debug\OpenClosedStudy.exe.config
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\bin\Debug\OpenClosedStudy.exe
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\bin\Debug\OpenClosedStudy.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\bin\Debug\OCPLibrary.dll
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\bin\Debug\OCPLibrary.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\obj\Debug\OpenClosedStudy.csprojAssemblyReference.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\obj\Debug\OpenClosedStudy.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\obj\Debug\OpenClosedStudy.csproj.CopyComplete
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\obj\Debug\OpenClosedStudy.exe
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\OpenClosedStudy\OpenClosedStudy\obj\Debug\OpenClosedStudy.pdb
